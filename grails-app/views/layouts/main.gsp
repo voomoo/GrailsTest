@@ -14,6 +14,8 @@
     <script src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js" crossorigin></script>
     <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/antd/4.17.0/antd.min.js"></script>
+
+
     <link
             async
             rel="stylesheet"
@@ -26,6 +28,8 @@
     />
     <script src="https://cdn.jsdelivr.net/npm/semantic-ui-react/dist/umd/semantic-ui-react.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+    <asset:javascript src="compo.js"/>
     <g:layoutHead/>
 </head>
 
